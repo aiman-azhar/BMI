@@ -31,7 +31,7 @@ public class MainActivity2 extends AppCompatActivity {
         togithub.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                url("https://github.com/aiman-azhar/BMI.git");
+                url("https://github.com/aiman-azhar/MyBMI");
             }
         });
     }
